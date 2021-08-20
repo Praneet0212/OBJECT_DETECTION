@@ -1,10 +1,11 @@
 .heading
 {
-font-size: 23px;
+font-size: 30px;
+font-weight: 500;
 width: 100%;
 margin: 0px;
 }
-#status
+#status, #number_of_objects
 {
 font-size: 18px;
 }
@@ -17,4 +18,5 @@ canvas
 {
     box-shadow: 10px 10px 10px grey;
     border-radius: 10px;
+    margin-top: 30px;
 }
